@@ -17,10 +17,17 @@
       "id": 5
     }
   ],
-  "albums": [{
-    "id":10,
-    "title":"Hiking Trip",
-    "userId":1
-  }],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Practical Fresh Hat",
+      "id": 11
+    }
+  ],
   "photos": []
 }
